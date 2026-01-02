@@ -2,6 +2,10 @@
   "files.encoding": "utf8",
   "editor.tabSize": 2,
 
+  // 设置编辑器字体 https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/EnvyCodeR.zip
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.fontLigatures": true, // 启用字体连字
+
   // 代码格式化配置 -> 使用prettier-vscode格式化器
   "editor.formatOnSave": true, // 保存时自动格式化
   "editor.defaultFormatter": "esbenp.prettier-vscode", // 默认格式化器：prettier-vscode
