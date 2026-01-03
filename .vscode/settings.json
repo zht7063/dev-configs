@@ -6,6 +6,9 @@
   "editor.fontFamily": "FiraCode Nerd Font",
   "editor.fontLigatures": true, // 启用字体连字
 
+  // 光标平滑动画
+  "editor.cursorSmoothCaretAnimation": "on",
+
   // 代码格式化配置 -> 使用prettier-vscode格式化器
   "editor.formatOnSave": true, // 保存时自动格式化
   "editor.defaultFormatter": "esbenp.prettier-vscode", // 默认格式化器：prettier-vscode
