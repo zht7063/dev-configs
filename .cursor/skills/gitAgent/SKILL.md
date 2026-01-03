@@ -1,6 +1,6 @@
 ---
 name: gitAgent
-description: This skill is used when writing git commit msgs.
+description: Use this skill in the scenario of writing git commit messages.
 ---
 
 # 1. 适用范围
